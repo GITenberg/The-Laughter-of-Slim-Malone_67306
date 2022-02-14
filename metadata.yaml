@@ -1,0 +1,30 @@
+_repo: The-Laughter-of-Slim-Malone_67306
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brand, Max
+    aliases:
+    - Frederick, John
+    - Faust, Frederick Schiller
+    birthdate: 1892
+    deathdate: 1944
+    gutenberg_agent_id: '743'
+    url: http://www.gutenberg.org/2009/agents/743
+    wikipedia: https://en.wikipedia.org/wiki/Max_Brand
+description: ''
+gutenberg_issued: '2022-02-02'
+identifiers:
+  gutenberg: '67306'
+language: en
+pgterms:marc905: 20220122005239brand
+pgterms:marc906: '1919'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: United States :The Frank A. Munsey Company,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Laughter of Slim Malone
+url: http://www.gutenberg.org/ebooks/67306
